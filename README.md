@@ -1,2 +1,2 @@
-# Power-Rangers
-A single image carousel using the Power Rangers! Project constructed using jquery.
+# E-Commerce React
+<p>Full-Stack E-Commerce React with Stripe</p>
